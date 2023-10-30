@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Valoración Hotel</string>
+    <string name="defaultStars">0</string>
+    <string name="lbl1">Personal</string>
+    <string name="lbl2">Instalación</string>
+    <string name="lbl3">Servicios</string>
+    <string name="lbl4">Limpieza</string>
+    <string name="lbl5">Confort</string>
+    <string name="lbl6">Calidad/Precio</string>
+    <string name="lbl7">Ubicación</string>
+    <string name="btnReset">Nueva valoración</string>
+</resources>
